@@ -1,0 +1,9 @@
+{
+    "name": "DiscoverAllRooms",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/Nixeld/R.E.P.O.-Discover-All-Rooms",
+    "description": "Allows you to set all rooms to discovered and reveal them on the map.",
+    "dependencies": [
+		"BepInEx-BepInExPack-5.4.2100"
+	]
+}
