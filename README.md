@@ -7,7 +7,7 @@ Allows you to set all rooms as discovered and reveal them on the map. Compatible
 2. Download the [latest release](https://github.com/Nixeld/R.E.P.O.-Discover-All-Rooms/releases) of this mod.
 3. Extract `Nixeld-DiscoverAllRooms.zip` into your `BepInEx/plugins` directory.
 
-Alternatively, the mod is available via the [Thunderstore Mod Manager](https://thunderstore.io/c/repo/p/Nixeld/DiscoverAllValuables/).
+Alternatively, the mod is available via the [Thunderstore Mod Manager](https://thunderstore.io/c/repo/p/Nixeld/DiscoverAllRooms/).
 
 ## Configuration
 
